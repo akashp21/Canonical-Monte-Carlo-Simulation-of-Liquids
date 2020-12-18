@@ -15,7 +15,8 @@ Lennard-Jones potential. Though, to make matters far simpler, we decided to use 
 How to operate the code:
 
 Begin by downloading the notebook file (ipynb) and uploading it to python. Create a new directory with the code in it, as this will help keep all of the files
-generated in the same place. 
+generated in the same place. Note, if using the UBC provided platform syzygy, the code will not work as effectively. It is better to run the program using Jupyter on a 
+local host.
 
 1. Run Cell 1 and cell 2
 2. Adjust initial parameters : n_atoms, T, rho, type2atoms(for V2), a, b, c, d, runs
